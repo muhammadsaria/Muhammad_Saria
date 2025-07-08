@@ -18,7 +18,18 @@
 
 ---
 
+---
+
 ## 🔥 Highlights
+
+- ✈️ **British Airways Data Science Job Simulation (Forage)**  
+  Completed a virtual experience in June 2025 focused on how data science supports British Airways' success.  
+  • Scraped and analyzed customer review data to uncover key insights  
+  • Built a predictive model to identify factors influencing customer buying behavior
+
+- 🧑‍💼 **Internship at KDA**  
+  • Collaborated in a team environment on data-driven tasks  
+  • Gained hands-on experience and learned new technologies
 
 - 🍕 **Sales Optimization Platform for Pizzeria**  
   Developed a fully interactive dashboard in **Power BI** by performing data analysis and running complex **SQL queries** to extract insights on sales trends, top-performing items, and customer behavior.  
@@ -31,6 +42,7 @@
 - 💬 **Sentiment Analysis on App Reviews**  
   NLP project analyzing user reviews from the Play Store to determine sentiment polarity using TF-IDF, text cleaning, and classification models.  
   🔗 [View Project](https://github.com/muhammadsaria/sentiment-analysis-playstore)
+
 
 ---
 
