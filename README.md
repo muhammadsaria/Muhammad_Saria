@@ -56,6 +56,16 @@
 
 ---
 
+## 📜 Certifications
+
+- 📄 **Data Analytics Internship – Karachi Development Authority (KDA)**  
+  [View Certificate](https://drive.google.com/file/d/1rIhIJ2qlRWMmx2-Sh3FTvNFLM1zaO7gj/view?usp=sharing) • *Issued: April 2025*
+
+- 📄 **British Airways Data Science Job Simulation – Forage**  
+  [View Certificate](https://drive.google.com/file/d/1mXhlgaoiQSEu2yxF2z4rawNkMyFRWij7/view?usp=sharing) • *Issued: June 2025*
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
