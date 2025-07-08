@@ -13,7 +13,7 @@
 - 🌱 I’m currently working on projects in **Data Science, Machine Learning, SQL, and NLP**
 - 💬 Ask me about: Python, Pandas, Data Preprocessing, Feature Engineering, ML Algorithms, SQL, Power BI
 - 💼 Actively looking for **Internship opportunities** in Data Analytics / ML / AI
-- 📫 Reach me at: **muhammadsaria@gmail.com**
+- 📫 Reach me at: **sariaqureshi03@gmail.com**
 - ⚡ Fun Fact: I love solving real-world problems using data!
 
 ---
@@ -60,21 +60,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaria&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaria&theme=github-dark-blue" width="48%" />
-</p>
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: **sariaqureshi03@gmail.com**
-- 🌐 LinkedIn: [muhammadsaria](https://linkedin.com/in/muhammadsaria)
+- 🌐 LinkedIn: [muhammadsaria](https://www.linkedin.com/in/muhammadsaria03)
+
+
 
 ---
 
